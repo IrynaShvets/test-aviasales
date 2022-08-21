@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/test-aviasales/static/css/main.073c9b0a.css",
-    "main.js": "/test-aviasales/static/js/main.b153cdca.js",
-    "static/js/787.8a35ddda.chunk.js": "/test-aviasales/static/js/787.8a35ddda.chunk.js",
-    "static/media/logo.svg": "/test-aviasales/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/test-aviasales/static/css/main.e91c7d17.css",
+    "main.js": "/test-aviasales/static/js/main.0341342d.js",
+    "static/media/barrera.png": "/test-aviasales/static/media/barrera.54960671185cb8a5c5ac.png",
+    "static/media/josefina.jpg": "/test-aviasales/static/media/josefina.75dc34e99e5171a221ab.jpg",
+    "static/media/mark.jpg": "/test-aviasales/static/media/mark.3a28fb85088fa9f4ea04.jpg",
+    "static/media/fil-potter.jpg": "/test-aviasales/static/media/fil-potter.66270ea9cfa5278d6102.jpg",
+    "static/media/helen.jpg": "/test-aviasales/static/media/helen.2a4cdf3862aea4954d3b.jpg",
+    "static/media/velazquez.jpg": "/test-aviasales/static/media/velazquez.9d35ce29e08294e4b490.jpg",
+    "static/media/alice-freeman.jpg": "/test-aviasales/static/media/alice-freeman.62d63825c5b37610ca11.jpg",
+    "static/media/search.svg": "/test-aviasales/static/media/search.211543788625dbf5f817.svg",
     "index.html": "/test-aviasales/index.html",
-    "main.073c9b0a.css.map": "/test-aviasales/static/css/main.073c9b0a.css.map",
-    "main.b153cdca.js.map": "/test-aviasales/static/js/main.b153cdca.js.map",
-    "787.8a35ddda.chunk.js.map": "/test-aviasales/static/js/787.8a35ddda.chunk.js.map"
+    "main.e91c7d17.css.map": "/test-aviasales/static/css/main.e91c7d17.css.map",
+    "main.0341342d.js.map": "/test-aviasales/static/js/main.0341342d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b153cdca.js"
+    "static/css/main.e91c7d17.css",
+    "static/js/main.0341342d.js"
   ]
 }
