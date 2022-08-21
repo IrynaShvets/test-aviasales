@@ -1,0 +1,28 @@
+.massageForm {
+  position: relative;
+}
+.labelMassageForm {
+  width: 100%;
+}
+
+.inputMassageForm {
+  width: 100%;
+  outline: none;
+  border-radius: 10px;
+  font-weight: bold;
+  height: 35px;
+  border: 0;
+  padding: 15px 30px;
+}
+
+.inputMassageForm::placeholder {
+  color: #21212140;
+  font-weight: bold;
+}
+
+.buttonMassageForm {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: #21212140;
+}

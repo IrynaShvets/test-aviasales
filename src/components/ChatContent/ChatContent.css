@@ -1,0 +1,18 @@
+.wrapper {
+  display: inline-flex;
+  align-items: center;
+}
+
+.image {
+  display: inline-block;
+  border-radius: 100%;
+  margin-right: 15px;
+}
+
+.message {
+  background-color: rgba(2, 5, 37, 0.979);
+  border-radius: 20px;
+  padding: 14px 10px;
+  color: #fff;
+  font-size: 12px;
+}
